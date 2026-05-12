@@ -114,4 +114,3 @@ The linear regression model explains very little of the variance in sales revenu
 ## Author 👤
 
 **Steven Nguyen**
-Temple University — Business Analytics
